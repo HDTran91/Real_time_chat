@@ -1,0 +1,22 @@
+{
+  "name": "real_time_chat",
+  "version": "1.0.0",
+  "description": "realtime Chat ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HDTran91/Real_time_chat.git"
+  },
+  "author": "Hoang_Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HDTran91/Real_time_chat/issues"
+  },
+  "homepage": "https://github.com/HDTran91/Real_time_chat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
